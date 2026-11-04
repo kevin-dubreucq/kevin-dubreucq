@@ -52,7 +52,7 @@
 
 <p align="center">
   <h1>FractaLens</h1>
-  <a href="https://github.com/kevin-dubreucq/FractaLens">
+  <a href="https://github.com/kevin-dubreucq/FractaLens" alt="Fractalens">
    
 </p>
 
