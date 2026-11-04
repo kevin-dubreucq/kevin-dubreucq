@@ -49,12 +49,7 @@
 ### 🚀 Projets mis en avant
 
 
-
-<p align="center">
-  <h1>FractaLens</h1>
-  <a href="https://github.com/kevin-dubreucq/FractaLens" alt="Fractalens">
-   
-</p>
+**Découvrez mon projet [***FractaLens***](https://github.com/kevin-dubreucq/FractaLens) pour visualiser des fractales.**
 
 ---
 
